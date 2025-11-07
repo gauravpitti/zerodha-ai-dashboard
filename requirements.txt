@@ -1,0 +1,6 @@
+streamlit
+KiteConnect
+google.generativeai
+pandas
+plotly.express
+plotly.graph_objects
